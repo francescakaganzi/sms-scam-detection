@@ -4,11 +4,11 @@ This repository contains a series of Jupyter Notebooks used in a graduate resear
 
 ## Contents
 
-- `final_sms_scam_eda.ipynb` – Exploratory data analysis and visualization of SMS dataset.
-- `final_sms_scam_ml.ipynb` – Classical machine learning models (e.g., Logistic Regression, Random Forest).
-- `final_sms_scam_dl.ipynb` – Deep learning approaches using PyTorch.
-- `final_sms_scam_llms.ipynb` – LLM fine-tuning and evaluation for scam classification.
-- `final_sms_scam_llama_8b.ipynb` – Fine-tuning and inference using the LLaMA 8B model.
+- `Data Exploration and Analysis.ipynb` – Exploratory data analysis and visualization of SMS dataset.
+- `Machine Learning Models.ipynb` – Classical machine learning models (e.g., Logistic Regression, Random Forest).
+- `Deep Learning Models.ipynb` – Deep learning approaches using PyTorch.
+- `LLM Fine-tuning (DistilBERT and RoBERTa).ipynb` – LLM fine-tuning and evaluation for scam classification.
+- `Llama 8b Model Fine-tuning.ipynb` – Fine-tuning and inference using the LLaMA 8B model.
 
 ## Installation
 
