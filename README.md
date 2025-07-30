@@ -1,6 +1,6 @@
 # Mobile Money SMS Scam Detection Notebooks
 
-This repository contains a series of Jupyter Notebooks used in a graduate research project on `Fine-tuning LLMs for Detecting SMS Scams in Mobile Money Services`.
+This repository contains a series of Google Colab Notebooks used in a graduate research project on `Fine-tuning LLMs for Detecting SMS Scams in Mobile Money Services`.
 
 ## Contents
 
