@@ -1,6 +1,6 @@
-# SMS Scam Detection Notebooks
+# Mobile Money SMS Scam Detection Notebooks
 
-This repository contains a series of Jupyter Notebooks used in a graduate research project on SMS scam detection using traditional ML, deep learning, and Large Language Models (LLMs).
+This repository contains a series of Jupyter Notebooks used in a graduate research project on `Fine-tuning LLMs for Detecting SMS Scams in Mobile Money Services`.
 
 ## Contents
 
